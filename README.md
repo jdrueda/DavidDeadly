@@ -10,7 +10,7 @@ const myself = {
     frontEnd: [React, Redux, Styled_Components],
     backEnd: [Node, Express, Sequelize],
     databases: [PostgreSQL],
-    version-control: [Git]
+    version-control: Git
   },
   learning: [Typescript, React_Native, MongoDB, Python]
 }
