@@ -4,7 +4,7 @@
 
 Ever since I discover the IT world I've been passionate... 🤟
 And since I'm very curious I've been mastering web dev as a self-taught and also dabbling into cybersecurity and I gotta say that I'm a fast learner 🥴
-Right now and thanks to the henry bootcamp, who has helped to move forward even faster, I have knowledge in Frontend, Backend and Databases, my main technologies are React and NodeJS but I'm always willing to learn new things... 🤓📚
+Right now and thanks to the [henry bootcamp](https://www.soyhenry.com), who has helped to move forward even faster, I have knowledge in Frontend, Backend and Databases, my main technologies are React and NodeJS but I'm always willing to learn new things... 🤓📚
 
 ## Summary
 ```js
@@ -86,6 +86,6 @@ const myself = {
 
 ## Contact Me 👥
 
-[![Email](https://img.shields.io/badge/gmail-e03f19?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jdrueda513@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-0177b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/j-se)
+[![Email](https://img.shields.io/badge/gmail-f59794?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jdrueda513@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-52a8d5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/j-se)
 
