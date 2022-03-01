@@ -1,8 +1,12 @@
 ### Hi, I'm David... 👨‍💻 Full Stack Web Dev
 
-Ever since I discover the IT world I've been passionate, right now I'm mastering web dev and also dabbling into cybersecurity.
-Right now I have knowledge in Frontend, Backend and Databases. And my main technologies are React and NodeJS, but I'm always willing to learn new tech related things
+## About Moi
 
+Ever since I discover the IT world I've been passionate... 🤟
+And since I'm very curious I've been mastering web dev as a self-taught and also dabbling into cybersecurity and I gotta say that I'm a fast learner 🥴
+Right now and thanks to the henry bootcamp, who has helped to move forward even faster, I have knowledge in Frontend, Backend and Databases, my main technologies are React and NodeJS but I'm always willing to learn new things... 🤓📚
+
+## Summary
 ```js
 const myself = {
   pronouns: "he" || "him",
@@ -16,6 +20,8 @@ const myself = {
   learning: [Typescript, React_Native, MongoDB, Python]
 }
 ```
+## Pretty Icons 🦋
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -73,13 +79,13 @@ const myself = {
   </a>
 </p>
 
-
-
+## Showing Off 🐺
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidDeadly&count_private=true&show_icons=true&theme=blue-green&hide=issues)
 
 
-## Contact Me
+## Contact Me 👥
+
 [![Email](https://img.shields.io/badge/gmail-e03f19?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jdrueda513@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0177b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/j-se)
 
