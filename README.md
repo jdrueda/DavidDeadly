@@ -1,6 +1,7 @@
 ### Hi, I'm David... 👨‍💻 Full Stack Web Dev
 
-I really enjoy learning all kind of tech related things
+Ever since I discover the IT world I've been passionate, right now I'm mastering web dev and also dabbling into cybersecurity.
+Right now I have knowledge in Frontend, Backend and Databases. And my main technologies are React and NodeJS, but I'm always willing to learn new tech related things
 
 ```js
 const myself = {
@@ -78,7 +79,7 @@ const myself = {
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidDeadly&count_private=true&show_icons=true&theme=blue-green&hide=issues)
 
 
- <h3 align="left">Let's connect</h3>
-<p align="left">
-<a href="https://linkedin.com/in/j-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-se" height="30" width="40" /></a>
-</p>
+## Contact Me
+[![Email](https://img.shields.io/badge/gmail-e03f19?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jdrueda513@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-0177b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/j-se)
+
