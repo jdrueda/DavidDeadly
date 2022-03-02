@@ -3,7 +3,9 @@
 ## About Moi
 
 Ever since I discover the IT world I've been passionate... 🤟
+
 And since I'm very curious I've been mastering web dev as a self-taught and also dabbling into cybersecurity and I gotta say that I'm a fast learner 🥴
+
 Right now and thanks to the [henry bootcamp](https://www.soyhenry.com), who has helped to move forward even faster, I have knowledge in Frontend, Backend and Databases, my main technologies are React and NodeJS but I'm always willing to learn new things... 🤓📚
 
 ## Summary
