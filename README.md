@@ -22,10 +22,11 @@ const myself = {
   learning: [Golang]
 }
 ```
+
+## Learning process
 [![roadmap.sh](https://roadmap.sh/card/wide/66a7a82eee6a29a2edfb9a67?variant=dark)](https://roadmap.sh)
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidDeadly&count_private=true&show_icons=true&theme=blue-green&hide=issues)
-
 
 ## Contact Me 👥
 
